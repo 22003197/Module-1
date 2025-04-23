@@ -1,4 +1,4 @@
-# Experiment No: 1 Python Basics- Add To Complex Numbers
+# Experiment No: 1 Python Basics- Add Two Complex Numbers
 
 ## AIM  
 To create a Python program to print the to Add two complex  numbers by getting the inputs using eval().
