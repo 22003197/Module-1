@@ -6,9 +6,9 @@ To Write a Python program to check whether the given character is a vowel or not
 1. Begin the program.  
 2. Input a character a
 3. Check if a is one of 'A', 'E', 'I', 'O', 'U'
-          If yes, print "The given character is a vowel"
-          If no, print "The given character is NOT a vowel"
-4. Terminate the program.
+   If yes, print "The given character is a vowel"
+   If no, print "The given character is NOT a vowel"
+5. Terminate the program.
 
 ## PROGRAM
 ```python
