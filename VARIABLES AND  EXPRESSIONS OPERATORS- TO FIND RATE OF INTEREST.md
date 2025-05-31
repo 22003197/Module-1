@@ -1,4 +1,5 @@
-# Experiment No: 3-Varibles and Expressions, Operators - To Find Rate of Interest
+# Experiment No: 3
+# Varibles and Expressions, Operators
 
 ## AIM
 To write a Python program to find rate of interest based on the user given principle, time & simple interest.
