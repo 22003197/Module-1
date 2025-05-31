@@ -1,4 +1,5 @@
-# Experiment No: 2- Data Types – Convert a List into a Tuple.
+# Experiment No: 2
+# Data Types
 
 ## AIM  
 To write a Python program to read a list and convert it into a tuple.
